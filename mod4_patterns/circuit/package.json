@@ -1,0 +1,10 @@
+{
+  "name": "circuit-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.4",
+    "opossum": "^5.0.3"
+  }
+}

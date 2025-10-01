@@ -1,0 +1,7 @@
+{
+  "name": "event-driven-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
